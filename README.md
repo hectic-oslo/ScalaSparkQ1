@@ -25,7 +25,7 @@ This Scala application reads an export data CSV file and prints the commodity th
 1. **Compile and run the application**
 2. **Provide Command Line Arguments**
     ```text
-    <year,country>
+    <year country> 
 ## Sample Input 
 1. **Sample Input**
 
