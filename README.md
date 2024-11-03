@@ -33,8 +33,7 @@ This Scala application reads an export data CSV file and prints the commodity th
    <img width="535" alt="image" src="https://github.com/user-attachments/assets/701aeb0c-8780-44c5-bb38-7f0051d4565e">
 3. **Sample Data (2018-2010_export.csv)**
 
-   
-        <img width="611" alt="image" src="https://github.com/user-attachments/assets/255230dc-1d70-49af-b70f-47b34045f1ff">
+    <img width="611" alt="image" src="https://github.com/user-attachments/assets/255230dc-1d70-49af-b70f-47b34045f1ff">
 
 ## Sample OutPut
 
