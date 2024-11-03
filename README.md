@@ -21,3 +21,21 @@ This Scala application reads an export data CSV file and prints the commodity th
    ```bash
    git clone https://github.com/hectic-oslo/ScalaSparkQ1.git
    cd ScalaSparkQ1
+## Usage
+1. **Compile and run the application**
+2. **Provide Command Line Arguments**
+    ```text
+    <year,country>
+## Sample Input 
+1. **Sample Input**
+   <img width="535" alt="image" src="https://github.com/user-attachments/assets/701aeb0c-8780-44c5-bb38-7f0051d4565e">
+2. **Sample Data (2018-2010_export.csv)**
+  <img width="611" alt="image" src="https://github.com/user-attachments/assets/255230dc-1d70-49af-b70f-47b34045f1ff">
+
+## Sample OutPut
+<img width="269" alt="image" src="https://github.com/user-attachments/assets/b6a4c549-2644-4a64-9fe8-7ad779b054a7">
+
+
+   
+
+    
