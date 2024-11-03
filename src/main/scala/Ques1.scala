@@ -6,7 +6,7 @@ import org.apache.log4j.{Level, Logger}
 
 object Ques1 extends App {
   val spark = SparkSession.builder()
-    .master("local[*]")
+    .config("spark.master","local")
     .appName("Ques1SparkAssignment")
     .config("spark.driver.bindAddress", "127.0.0.1")
     .config("spark.hadoop.hadoop.security.authentication", "simple")
