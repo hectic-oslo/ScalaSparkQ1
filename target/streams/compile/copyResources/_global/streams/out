@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/abhishekkumar/Downloads/ScalaSparkAssignment/src/main/resources/log4j.properties,/Users/abhishekkumar/Downloads/ScalaSparkAssignment/target/scala-2.12/classes/log4j.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/abhishekkumar/Downloads/ScalaSparkAssignment/src/main/resources/data/2018-2010_import.csv,/Users/abhishekkumar/Downloads/ScalaSparkAssignment/target/scala-2.12/classes/data/2018-2010_import.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/abhishekkumar/Downloads/ScalaSparkAssignment/src/main/resources/data/2018-2010_export.csv,/Users/abhishekkumar/Downloads/ScalaSparkAssignment/target/scala-2.12/classes/data/2018-2010_export.csv)[0m

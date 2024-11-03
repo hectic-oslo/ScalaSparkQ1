@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/abhishekkumar/Downloads/ScalaSparkAssignment/src/main/scala/Ques1.scala:1:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.commons.lang3.BooleanUtils.and[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/abhishekkumar/Downloads/ScalaSparkAssignment/src/main/scala/Ques1.scala:2:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/abhishekkumar/Downloads/ScalaSparkAssignment/src/main/scala/Ques1.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions.col[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/abhishekkumar/Downloads/ScalaSparkAssignment/src/main/scala/Ques1.scala:6:11: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0mval spark=SparkSession.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
